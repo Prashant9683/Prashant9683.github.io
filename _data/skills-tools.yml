@@ -25,11 +25,11 @@
 # - name: Chrome DevTools
 #   weight: 2
 
-# - name: npm
-#   weight: 2
+- name: npm
+  weight: 1
 
 # - name: gulp
 #   weight: 4
 
-# - name: Postman
-#   weight: 4
+- name: Postman
+  weight: 1

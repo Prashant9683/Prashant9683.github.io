@@ -9,16 +9,17 @@
 #   weight: 5
 
 - name: JavaScript
-  weight: 2
+  weight: 3
 
 - name: Python
   weight: 5
 
-- name: HTML5
-  weight: 5
+- name: PostgreSQL
+  weight: 1
 
-- name: CSS3
-  weight: 2
+- name: GraphQL
+  weight: 1
+
 # - name: SASS
 #   weight: 3
 
